@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Alerta Respiratório</title>
+  <link rel="stylesheet" href="/static.css">
+</head>
+<body>
+  <h2>Cadastro para alerta de temperatura e doença respiratória</h2>
+  <form method="POST" action="/">
+    <label>E-mail: <input type="email" name="email" required></label><br><br>
+    <label>Cidade (ex: Hortolândia,BR): <input type="text" name="cidade" required></label><br><br>
+    <label>Doença respiratória:
+      <select name="doenca" required>
+        <option value="asma">Asma</option>
+        <option value="rinite">Rinite Alérgica</option>
+        <option value="bronquite">Bronquite</option>
+        <option value="dpoc">DPOC</option>
+        <option value="sinusite">Sinusite</option>
+        <option value="infec_respiratoria_viral">Infecções Respiratórias Virais</option>
+        <option value="pneumonia">Pneumonia</option>
+        <option value="fibrose_pulmonar">Fibrose Pulmonar</option>
+        <option value="apneia_do_sono">Apneia do Sono</option>
+        <option value="hipersensibilidade_pneumonitis">Hipersensibilidade Pneumonitis</option>
+      </select>
+    </label><br><br>
+    <button type="submit">Cadastrar</button>
+  </form>
+  
+  <hr>
+  <p>Os alertas são checados automaticamente a cada 2 minutos.</p>
+</body>
+</html>
