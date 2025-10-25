@@ -16,11 +16,11 @@ Este projeto monitora condições ambientais (temperatura, umidade, qualidade do
 
  ## Integrantes:
 
- -Vinícius Alves Batista
- -Natália Dias Fernandes
- -Lucas Cardoso Costa
- -Thiago Freire Barbosa
- -Pedro Fernando Tasso
- -Júlio Cesar Ribeiro
+ - Vinícius Alves Batista
+ - Natália Dias Fernandes
+ - Lucas Cardoso Costa
+ - Thiago Freire Barbosa
+ - Pedro Fernando Tasso
+ - Júlio Cesar Ribeiro
 
 
