@@ -14,7 +14,7 @@ Este projeto monitora condições ambientais (temperatura, umidade, qualidade do
 - SQLite
 - APIs: OpenWeatherMap e SendGrid
 
- Integrantes:
+ ## Integrantes:
 
  Vinícius Alves Batista
  Natália Dias Fernandes
